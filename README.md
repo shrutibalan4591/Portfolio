@@ -38,6 +38,7 @@ This app produces unigram words for keywords, but can also be modified to extrac
 Link to application : [https://your-keyword-extractor.herokuapp.com/](https://your-keyword-extractor.herokuapp.com)
 
 ![image](https://user-images.githubusercontent.com/77207245/153548716-fcee525d-13fe-4cdc-a74c-db67d189e367.png)
+![image1](https://raw.githubusercontent.com/shrutibalan4591/Keyword-Extraction/main/Images/demo.gif)
 
 ************************************************************************************************
 [**Project 5: Diabetes-Prediction**](https://github.com/shrutibalan4591/Diabetes-Prediction)
