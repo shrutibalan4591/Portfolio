@@ -40,7 +40,7 @@ Link to application : [https://your-keyword-extractor.herokuapp.com/](https://yo
 ![Keyword-Extractor-Demo](https://github.com/shrutibalan4591/Keyword-Extraction/blob/main/Images/demo.gif)
 
 ************************************************************************************************
-[**Diabetes-Prediction**](https://github.com/shrutibalan4591/Diabetes-Prediction)
+[**Project 5: Diabetes-Prediction**](https://github.com/shrutibalan4591/Diabetes-Prediction)
 A machine learning classification model to determine if a person is diabetic or not. The model is deployed in Heroku using Flask.
 
 Link for the web app: [https://know-your-sugars.herokuapp.com/](https://know-your-sugars.herokuapp.com/)
