@@ -37,7 +37,7 @@ This app produces unigram words for keywords, but can also be modified to extrac
 
 Link to application : [https://your-keyword-extractor.herokuapp.com/](https://your-keyword-extractor.herokuapp.com)
 
-![Keyword-Extractor-Demo](Images/demo.gif)
+![Keyword-Extractor-Demo](https://github.com/shrutibalan4591/Keyword-Extraction/blob/main/Images/demo.gif)
 
 
 
