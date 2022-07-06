@@ -41,7 +41,7 @@ Link to application : [https://your-keyword-extractor.herokuapp.com/](https://yo
 
 ************************************************************************************************
 ## [**Project 5: Bank-Customer-Churn-Prediction**](https://github.com/shrutibalan4591/Bank-Customer-Churn-Prediction)
-This project aims to accomplist the following:
+This project aims to accomplish the following:
 - Identify and visualize which factors contribute to customer churn.
 - Build a prediction model that will perform the function of classifying if a customer is going to churn or not.
 
