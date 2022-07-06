@@ -40,11 +40,10 @@ Link to application : [https://your-keyword-extractor.herokuapp.com/](https://yo
 ![image1](https://raw.githubusercontent.com/shrutibalan4591/Keyword-Extraction/main/Images/demo.gif)
 
 ************************************************************************************************
-## [**Project 5: Diabetes-Prediction**](https://github.com/shrutibalan4591/Diabetes-Prediction)
-A machine learning classification model to determine if a person is diabetic or not. The model is deployed in Heroku using Flask.
-
-Link for the web app: [https://know-your-sugars.herokuapp.com/](https://know-your-sugars.herokuapp.com/)
-![ui suger](https://user-images.githubusercontent.com/77207245/133021597-990e6556-4635-4449-af46-1c8975e2940a.PNG)
+## [**Project 5: Bank-Customer-Churn-Prediction**](https://github.com/shrutibalan4591/Bank-Customer-Churn-Prediction)
+This project aims to accomplist the following:
+- Identify and visualize which factors contribute to customer churn.
+- Build a prediction model that will perform the function of classifying if a customer is going to churn or not.
 
 ************************************************************************************************
 
