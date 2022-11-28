@@ -1,12 +1,12 @@
 # PROJECTS
 
-## [**Project 1: Fake News Detection**](https://github.com/shrutibalan4591/Fake-News-Detection)
+## [**Project 1: Credit risk Classification**](https://github.com/shrutibalan4591/South-German-Credit-Risk-Classification)
 
-An end-to-end machine learning nlp project aimed at predicting/classifying a given news article as fake or real. The model is deployed in Heroku using Flask. The classifier used here is PassiveRegessiveClassifier.
+This is an end-to-end ML project, which aims at developing a classification model for the problem of classifying a given customer profile into either of the risk category (Good or Bad). The final classifier used for this project is XGBoost classifier. Deployed in Heroku.
 
-Link for the webapp : [https://catch-the-fakes.herokuapp.com/](https://catch-the-fakes.herokuapp.com/)
+Link for the webapp : [https://catch-the-fakes.herokuapp.com/](https://south-german-credit-score.herokuapp.com/)
 
-![fake-news](https://user-images.githubusercontent.com/77207245/132998643-7e068d64-ce30-4237-b542-6858dea33f1a.gif)
+![image](https://user-images.githubusercontent.com/77207245/204210065-ca82d184-8f4a-4606-92cc-52035eb66310.png)
 
 ************************************************************************************************
 ## [**Project 2: Bangalore House Price Prediction**](https://github.com/shrutibalan4591/Bangalore-House-Price-Prediction)
