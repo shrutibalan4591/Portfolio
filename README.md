@@ -6,7 +6,7 @@ This is an end-to-end ML project, which aims at developing a classification mode
 
 Link for the webapp : [Credit risk Classification](https://south-german-credit-score.herokuapp.com/)
 
-![image](https://user-images.githubusercontent.com/77207245/204210065-ca82d184-8f4a-4606-92cc-52035eb66310.png)
+![image](https://user-images.githubusercontent.com/77207245/204213335-11c5439c-5e69-426c-99a5-3f5e52fe8f69.png)
 
 ************************************************************************************************
 
