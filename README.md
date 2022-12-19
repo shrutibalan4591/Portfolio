@@ -4,7 +4,7 @@
 
 This is an end-to-end ML project, which aims at developing a classification model for the problem of classifying a given customer profile into either of the risk category (Good or Bad). The final classifier used for this project is XGBoost classifier. Deployed in Heroku.
 
-Link for the webapp : [Credit risk Classification](https://south-german-credit-score.herokuapp.com/)
+Link for the webapp : [Credit risk Classification](https://web-production-2b9e.up.railway.app/)
 
 ![image](https://user-images.githubusercontent.com/77207245/204213335-11c5439c-5e69-426c-99a5-3f5e52fe8f69.png)
 
@@ -14,7 +14,7 @@ Link for the webapp : [Credit risk Classification](https://south-german-credit-s
 
 This is an end-to-end ML project, which aims at developing a classification model for the problem of predicting credit card frauds using a given labeled dataset. The classifier used for this project is RandomForestClassifier. Deployed in Heroku.
 
-Link for the webapp : [Credit Card Defaulter Prediction](http://cc-defaulter-predictor.herokuapp.com/)
+Link for the webapp : [Credit Card Defaulter Prediction](https://credit-card-default.up.railway.app/)
 
 ![image](https://user-images.githubusercontent.com/77207245/204210994-4a517a49-2f4a-466d-8770-642699dee0f0.png)
 
@@ -32,13 +32,14 @@ This project comprises of 3 tasks:
 
 ************************************************************************************************
 
-## [**Project 4: Bangalore House Price Prediction**](https://github.com/shrutibalan4591/Bangalore-House-Price-Prediction)
+## [**Project 4: E-commerce Customer Churn Prediction**](https://github.com/shrutibalan4591/E-commerce-Customer-Churn-Prediction)
 
-An end-to-end regression problem of predicting the price of properties in Bangalore. Deployed in Heroku using Flask.
+This is an end-to-end ML project, which aims at developing a classification model for predicting if a customer for an ecommerce business will churn or not in the following month Depoyed in Heroku and Railway app.
 
-Link for the web app: [https://bangalore-house-estimate.herokuapp.com/](https://bangalore-house-estimate.herokuapp.com/)
+Link for the web app: [E-commerce Customer Churn Prediction](https://ecommerce-customer-churn.up.railway.app/)
 
-![house ui](https://user-images.githubusercontent.com/77207245/133029317-d90d0cff-1e8a-483c-88bf-51c86665bc4b.PNG)
+![image](https://user-images.githubusercontent.com/77207245/208406696-1eee09e6-43da-46be-9a81-41c6520b15fe.png)
+
 
 ************************************************************************************************
 
@@ -49,7 +50,13 @@ This project aims to accomplish the following:
 
 ************************************************************************************************
 
+## [**Project 6: Stock Sentiment Analysis**](https://github.com/shrutibalan4591/Stock-Sentiment-Analysis)
 
+An end-to-end classification problem to predict whether the stock price will increase or decrease, based on the news headlines. Deployed in Railway app using Flask.
+
+Link for the web app: [Stock Sentiment Analysis](https://stock-sentiment-analysis.up.railway.app/)
+
+![image](https://user-images.githubusercontent.com/77207245/208407409-9969a4dd-1560-497a-aa29-f3978eb26ead.png)
 
 
 
