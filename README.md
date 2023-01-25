@@ -20,9 +20,9 @@ Link for the webapp : [Credit Card Defaulter Prediction](https://credit-card-def
 
 ************************************************************************************************
 
-## [**Project 3: Retail Store Customer Segmentation**](https://github.com/shrutibalan4591/Retail-Store-Customer-Segmentation)
+## [**Project 3: Retail Customer Segment and Sales Performance Analysis**](https://github.com/shrutibalan4591/Retail-Store-Customer-Segmentation)
 
-This virtual experience program focuses on FMCG (fast-moving consumer goods). More specifically, we are looking at the sales pattern of the chips category in a particular retail store. This project focuses on FMCG (fast-moving consumer goods). More specifically, we are looking at the sales pattern of the chips category in a particular retail store.
+This project looks at the sales pattern of a product category in a retail store, using the store’s transaction dataset and identifying customer purchase behavior, to generate insights and recommendations.
 
 This project comprises of 3 tasks:
 
